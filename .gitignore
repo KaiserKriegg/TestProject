@@ -1,0 +1,4 @@
+node_modules
+test/results/mocha.xml
+.env
+package-lock.json
